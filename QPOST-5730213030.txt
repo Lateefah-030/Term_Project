@@ -1,0 +1,28 @@
+QPOST
+Usecase daigram
+     ระบบการจัดประเภทสินค้า
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Class daigram
