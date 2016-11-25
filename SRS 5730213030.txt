@@ -1,0 +1,55 @@
+3. category product system
+1.Use Case Diagram 
+
+2.Class diagram
+
+3. Sequence Diagram
+3.1Sequence Diagram demonstrating operation “Add product”
+
+
+3.2 Sequence Diagram demonstrating operation “Delete product”
+
+
+
+
+
+
+3.3 Sequence Diagram demonstrating operation “Edit product”
+
+
+3.4 Sequence Diagram demonstrating operation “Category Product”
+
+
+
+
+
+
+4. Model-View-Controller (MVC)
+4.1Model-View-Controller (MVC) Model “Add Product”
+
+
+4.2Model-View-Controller (MVC) Model “Delete Product” 
+
+
+4.3 Model-View-Controller (MVC) Model “Edit Product” 
+
+4.4 Model-View-Controller (MVC) Model “Category Product” 
+
+
+
+
+
+
+
+5. SRS Duccument
+5.1Product Management sub System- SRS Duccument
+Use Case Name::Product Management sub SystemXref::[Q-POS SYSTEM-SRS]  /UseCase:UC030  pg1.Actor:: Employee Priority:: High Pre-conditions  /Assumptions:: ใช้สำหรับพนักงานทำการเพิ่มสินค้า,แก้ไขสินค้า,ลบสินค้า และเลือกประเภทสินค้าPost-conditions:: ระบบเพิ่มลบแก้ไขและเลือกประเภทการสินค้าFlow of Events::
+
+
+1.พนักงานสามารถทำการเพิ่มสินค้า “Add Product”
+2.พนักงานสามารถทำการแก้ไขรายการสินค้า”Edit Product”
+3.พนักงานสามารถทำการลบรายการสินค้า  โดยการกดปุ่ม “Delete Product”
+4.พนักงานสามารถทำการดูรีพอตสินค้าทั้งหมดได้โดยการกดปุ่ม “Category product”Alternative of Events::ระบบจะแจ้งเตือน Error  เมื่อกดรหัสสินค้าผิดUI Xref[Q-POS SYSTEM-SRS]  /UseCase:UC030  pg1-4Note::N/A
+Page | 1
+
+
